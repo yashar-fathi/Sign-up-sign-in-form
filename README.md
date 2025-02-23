@@ -25,6 +25,4 @@ This project is a sign-up and sign-in form that smoothly transitions between bot
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 open index.html
-![Demo](https://i.imgur.com/eYp9IcK.gif)
-
-https://i.imgur.com/eYp9IcK.gif
+![Demo](https://i.imgur.com/8LMk7up.gif)
